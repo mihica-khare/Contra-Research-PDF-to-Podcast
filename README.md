@@ -20,6 +20,6 @@ pip install -r requirements.txt
 4. Push to the branch (git push origin feature/NewFeature)
 5. Open a pull request 
 # Acknowledgments : 
-Silero TTS: snakers4/silero-models for text-to-speech 
-PyMuPDF: PyMuPDF for PDF text extraction 
-Aksharamukha: Aksharamukha for script conversion 
+- Silero TTS: snakers4/silero-models for text-to-speech 
+- PyMuPDF: PyMuPDF for PDF text extraction 
+- Aksharamukha: Aksharamukha for script conversion 
